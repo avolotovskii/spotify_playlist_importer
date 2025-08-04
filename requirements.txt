@@ -1,3 +1,6 @@
-spotipy
-python-dotenv
-tqdm
+pytesseract==0.3.10
+Pillow==10.0.0
+beautifulsoup4==4.12.2
+spotipy==2.23.0
+python-dotenv==1.0.0
+pytz==2023.3
